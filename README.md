@@ -1,9 +1,9 @@
-#MERCYS_RESTAURANT's 
+# MERCYS_RESTAURANT's 
 
-##SUMMARY
+## SUMMARY
 The project is a website which is about the system on how Mercys_Restaurant works.
 
-##FEATURES
+## FEATURES
 It is created using Django and it follows the MVT design pattern (MVT - Model View Template).
 
 ##FUNCTIONS
